@@ -3,3 +3,4 @@ scikit-learn
 pandas
 plotly==4.7.1
 sparsesvd
+kaleido
