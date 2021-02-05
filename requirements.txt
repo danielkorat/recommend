@@ -1,5 +1,5 @@
 tqdm
 scikit-learn
 pandas
-plotly
+plotly==4.7.1
 sparsesvd
