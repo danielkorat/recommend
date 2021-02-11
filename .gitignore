@@ -3,3 +3,8 @@ m1.zip
 .ipynb_checkpoints/recommend-checkpoint.ipynb
 ml-1m/
 .ipynb_checkpoints/
+log_best.txt
+.gitignore
+results.json
+.gitignore
+log.txt
