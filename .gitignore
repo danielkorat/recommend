@@ -5,7 +5,4 @@ ml-1m/
 .ipynb_checkpoints/
 log_best.txt
 .gitignore
-results.json
-.gitignore
 log.txt
-funk_results.json
